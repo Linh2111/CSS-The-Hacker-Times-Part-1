@@ -25,6 +25,9 @@ nav {
     text-align: center;
     border-top:1px #eee solid;
     border-bottom:1px #eee solid;
+    background-color: white;
+    position: sticky; 
+    top: 10px;
 }
 
 h5 {
